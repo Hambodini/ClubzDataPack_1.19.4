@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "C"
+    ],
+    "key": {
+        "#": {
+            "tag": "clubz_dp:club_mats"
+        },
+        "C": {
+            "tag": "clubz_dp:club_handle_mats"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

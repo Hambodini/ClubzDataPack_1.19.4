@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "clubz_dp:wooden_club"
+            }
+        }
+    },
+    "rewards": {
+        "function": "clubz_dp:give_wooden_club"
+    }
+}
