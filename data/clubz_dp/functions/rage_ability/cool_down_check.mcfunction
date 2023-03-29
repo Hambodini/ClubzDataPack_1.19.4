@@ -1,1 +1,1 @@
-execute if score @s tac.canUseRageAbility matches 1 run function tac:rage_ability/activate
+execute if score @s clubz_dp.canUseRageAbility matches 1 run function clubz_dp:rage_ability/activate
